@@ -6,7 +6,7 @@ Version:	4.0
 Release:	2
 License:	GPLv3
 Group:		Graphical desktop/Other
-URL:		http://mokaproject.com/faba-icon-theme/
+URL:		https://mokaproject.com/faba-icon-theme/
 Source0:	https://github.com/moka-project/faba-icon-theme/raw/master/%{name}-%{version}.tar.gz
 Requires:	hicolor-icon-theme
 
